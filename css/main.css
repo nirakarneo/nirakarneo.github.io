@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    align: justify;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -25,8 +24,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    align: 'justify';
-    font-size: 1.2em;
+    align: justify;
+    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
