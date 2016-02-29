@@ -25,9 +25,9 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    align: "justify";
+    align: 'justify';
     font-size: 1.1em;
-    line-height: 1.8em;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
