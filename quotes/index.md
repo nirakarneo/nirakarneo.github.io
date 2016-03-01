@@ -4,7 +4,7 @@ title: Quotes
 ---
 <div class="wrapper">
 <blockquote>
-We do not choose mathematics as our profession, it chooses us. *Yuri Marin*
+We do not choose mathematics as our profession, it chooses us. <em> Yuri Marin </em>
 </blockquote>
 
 
