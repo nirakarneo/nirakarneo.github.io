@@ -11,3 +11,4 @@ We do not choose mathematics as our profession, it chooses us. [<em>Yuri Marin</
 
 
 </div>
+> We do not choose mathematics as our profession, it chooses us.
