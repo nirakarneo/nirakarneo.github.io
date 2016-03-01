@@ -18,7 +18,7 @@ confirms mortality, and that mortality defines all courage and love. To think
 that what has looked forward must also look back, and that each life makes its
 own imitation of immortality: a wheel.<br />
 Or so Bill Denbrough sometimes thinks on those early mornings after dreaming,
-when he almost remembers his childhood, and the friends with whom he shared it. - Stephen King</p>
+when he almost remembers his childhood, and the friends with whom he shared it. - <em>Stephen King</em></p>
 </blockquote>
 
 <p><em>“It”</em>, Stephen King</p>
