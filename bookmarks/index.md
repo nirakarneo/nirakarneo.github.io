@@ -28,7 +28,7 @@ Title | Author
 [392C Geometric Group Theory](https://392c.wordpress.com/) | Henry Wilton (course blog)
 [Geometry and the Imagination](https://lamington.wordpress.com/) | Danny Calegari
 [God Plays Dice - old](http://godplaysdice.blogspot.ca/) | Michael Lugo
-[God Plays Dice - new](http://gottwurfelt.com/)	Michael Lugo
+[God Plays Dice - new](http://gottwurfelt.com/)	| Michael Lugo
 [Damek Davis' Blog](https://damekdavis.wordpress.com/) | Damek Davis
 [Hydrobates](https://alanrendall.wordpress.com/) | Alan Rendall
 [I Woke Up In A Strange Place](https://yannisparissis.wordpress.com/) | Ioannis Parissis
