@@ -2,8 +2,6 @@
 layout: default
 title: Bookmarks
 ---
-Title | Author
------ | ------
 [0xDE](http://11011110.livejournal.com/) |	
 [A Mind for Madness](https://hilbertthm90.wordpress.com/) | Matt Ward
 [Alex Sisto](https://alexsisto.wordpress.com/) | Alessandro Sisto
