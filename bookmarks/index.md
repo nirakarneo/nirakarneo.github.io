@@ -6,6 +6,7 @@ Blog | Author/s
 -----|---------
 [0xDE](http://11011110.livejournal.com/) |	
 [392C Geometric Group Theory](https://392c.wordpress.com/) | Henry Wilton (course blog)
+[A Dialogue on Infinity](https://dialinf.wordpress.com/) | Alexandre Borovik, David Corfield
 [A Mind for Madness](https://hilbertthm90.wordpress.com/) | Matt Ward
 [Alex Sisto](https://alexsisto.wordpress.com/) | Alessandro Sisto
 [Annoying Precision](https://qchu.wordpress.com/) | Qiaochu Yuan
@@ -18,6 +19,7 @@ Blog | Author/s
 [Combinatorics and More](https://gilkalai.wordpress.com/) | Gil Kalai
 [Concrete Nonsense](https://concretenonsense.wordpress.com/) | Group Blog
 [Concrete Nonsense](https://abhishekparab.wordpress.com/) | Abhishek Parab
+[Damek Davis' Blog](https://damekdavis.wordpress.com/) | Damek Davis
 [David Mumford's Blog](http://www.dam.brown.edu/people/mumford/blog.html) | David Mumford
 [Delta Epsilons](https://deltaepsilons.wordpress.com/) | Group Blog
 [Disquisitiones Mathematicae](https://matheuscmss.wordpress.com/) | Matheus
@@ -30,7 +32,6 @@ Blog | Author/s
 [Geometry and the Imagination](https://lamington.wordpress.com/) | Danny Calegari
 [God Plays Dice - old](http://godplaysdice.blogspot.ca/) | Michael Lugo
 [God Plays Dice - new](http://gottwurfelt.com/)	| Michael Lugo
-[Damek Davis' Blog](https://damekdavis.wordpress.com/) | Damek Davis
 [Hydrobates](https://alanrendall.wordpress.com/) | Alan Rendall
 [I Woke Up In A Strange Place](https://yannisparissis.wordpress.com/) | Ioannis Parissis
 [Igor Pak's Blog](https://igorpak.wordpress.com/) | Igor Pak
@@ -47,7 +48,6 @@ Blog | Author/s
 [Shtetl-Optimized](http://www.scottaaronson.com/blog/) | Scott Aaronson
 [Mathematical Musings](https://matthewkahle.wordpress.com/) | Matthew Kahle
 [Mathematics Under the Microscope](https://micromath.wordpress.com) | Alexandre Borovik
-[A Dialogue on Infinity](https://dialinf.wordpress.com/) | Alexandre Borovik, David Corfield
 [Mathematics without Apologies](https://mathematicswithoutapologies.wordpress.com/) | Michael Harris
 [Matt Baker's Math Blog](https://mattbakerblog.wordpress.com/) | Matt Baker
 [Mixed Math - new](http://davidlowryduda.com/) | David Lowry-Duda
