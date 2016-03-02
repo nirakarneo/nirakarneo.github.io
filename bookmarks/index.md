@@ -43,4 +43,43 @@ Title | Author
 [Libres pensées d'un mathématicien ordinaire](http://djalil.chafai.net/blog/) |	Djalil Chafai
 [Low Dimensional Topology](https://ldtopology.wordpress.com/) |	Ryan Budney, Nathan Dunfield, Jesse Johnson, Daniel Moskovich and Henry Wilton
 [mathbabe](http://mathbabe.org/) | Cathy O’Neil
-
+[neverendingbooks](http://www.neverendingbooks.org/) | Lieven Lebruyn
+[Shtetl-Optimized](http://www.scottaaronson.com/blog/) | Scott Aaronson
+[Mathematical Musings](https://matthewkahle.wordpress.com/) | Matthew Kahle
+[Mathematics Under the Microscope](https://micromath.wordpress.com) | Alexandre Borovik
+[A Dialogue on Infinity](https://dialinf.wordpress.com/) | Alexandre Borovik, David Corfield
+[Mathematics without Apologies](https://mathematicswithoutapologies.wordpress.com/) | Michael Harris
+[Matt Baker's Math Blog](https://mattbakerblog.wordpress.com/) | Matt Baker
+[Mixed Math - new](http://davidlowryduda.com/) | David Lowry-Duda
+[Mixed Math - old](https://mixedmath.wordpress.com/) | David Lowry-Duda
+[Motivic Stuff](https://homotopical.wordpress.com/) | Andreas Holmstrom
+[Noncommutative Geometry Blog](http://noncommutativegeometry.blogspot.ca/) | Alain Connes, etc.
+[Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/) | Peter Woit
+[Weblog](https://pfzhang.wordpress.com/) | Pengfei Zhang
+[Peter Cameron's Blog](https://cameroncounts.wordpress.com/) | Peter Cameron
+[Mathematical general relativity, compressible fluids, and more](https://philippelefloch.org/) | Philippe LeFloch
+[Quomodocumque](https://quomodocumque.wordpress.com/) | Jordan Ellenberg
+[regularize](https://regularize.wordpress.com/) | Dirk Lorenz.
+[Rigorous Trivialities](https://rigtriv.wordpress.com/) | Charles Siegel, Jim Stankewicz
+[Roots of Unity](http://blogs.scientificamerican.com/roots-of-unity/) | Evelyn Lamb
+[Secret Blogging Seminar](https://sbseminar.wordpress.com/) | Group Blog
+[sdenisov](https://sdenisov.wordpress.com/) | Ergey Denisov
+[Short, Fat Matrices](https://dustingmixon.wordpress.com/) | Dustin G. Mixon
+[Since it is not …](https://ifwisdomwereteachable.wordpress.com/) | Yemon Choi
+[Stacks Project Blog](http://math.columbia.edu/~dejong/wordpress/) | Aise Johan de Jong
+[SymOmega](https://symomega.wordpress.com/) | Michael Giudici, John Bamberg and Gordon Royle
+[tcs math](http://tcsmath.org/) | James R. Lee
+[The Accidental Mathematician](https://ilaba.wordpress.com/) | Izabella Laba
+[the capacity to be alone](https://etreseul.wordpress.com/) | Group Blog
+[The Everything Seminar](https://cornellmath.wordpress.com/) | Group Blog
+[The Geomblog](http://blog.geomblog.org/) | Suresh Venkatasubramanian 
+[The n-Category Café](https://golem.ph.utexas.edu/category/) | Group Blog
+[The Polymath Blog](http://polymathprojects.org/) | Polymath
+[The Unapologetic Mathematician](https://unapologetic.wordpress.com/) | John Armstrong
+[Gowers's Weblog](https://gowers.wordpress.com/) | Timothy Gowers
+[Vaughn Climenhaga's Math Blog](https://vaughnclimenhaga.wordpress.com/) | Vaughn Climenhaga
+[Vieux Girondin's Blog](https://vieuxgirondin.wordpress.com/) | Vieux Girondin
+[What's New](https://terrytao.wordpress.com/) | Terence Tao
+[Windows on Theory](http://windowsontheory.org/) | Group Blog
+[XOR's Hammer](http://xorshammer.com/) | Michael O’Connor
+[Zhenghe's Blog](https://zhenghezhang.wordpress.com/) | Zhenghe Zhang
