@@ -33,3 +33,13 @@ Title | Author
 [Hydrobates](https://alanrendall.wordpress.com/) | Alan Rendall
 [I Woke Up In A Strange Place](https://yannisparissis.wordpress.com/) | Ioannis Parissis
 [Igor Pak's Blog](https://igorpak.wordpress.com/) | Igor Pak
+[in theory](https://lucatrevisan.wordpress.com/) | Luca Trevisan
+[James Colliander's Blog](http://blog.math.toronto.edu/colliand/) | James Colliander
+[Jerome Buzzi's Mathematical Ramblings](https://jbuzzi.wordpress.com/) | Jerome Buzzi
+[Le Petit Chercheur Illustré](https://yetaspblog.wordpress.com/) | Laurent Jacques
+[Lemma Meringue](https://lemmameringue.wordpress.com/) | Thomas Bloom
+[Lewko's blog](https://lewko.wordpress.com/) | Mark Lewko
+[Libres pensées d'un mathématicien ordinaire](http://djalil.chafai.net/blog/) |	Djalil Chafai
+[Low Dimensional Topology](https://ldtopology.wordpress.com/) |	Ryan Budney, Nathan Dunfield, Jesse Johnson, Daniel Moskovich and Henry Wilton
+[mathbabe](http://mathbabe.org/) | Cathy O’Neil
+
