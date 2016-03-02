@@ -16,6 +16,7 @@ Title | Author
 [Climbing Mount Bourbaki](https://amathew.wordpress.com/) | Akhil Mathew
 [Combinatorics and More](https://gilkalai.wordpress.com/) | Gil Kalai
 [Concrete Nonsense](https://concretenonsense.wordpress.com/) | Group Blog
+[Concrete Nonsense](https://abhishekparab.wordpress.com/) | Abhishek Parab
 [David Mumford's Blog](http://www.dam.brown.edu/people/mumford/blog.html) | David Mumford
 [Delta Epsilons](https://deltaepsilons.wordpress.com/) | Group Blog
 [Disquisitiones Mathematicae](https://matheuscmss.wordpress.com/) | Matheus
