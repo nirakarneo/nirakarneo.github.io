@@ -5,6 +5,7 @@ title: Bookmarks
 Blog | Author/s
 -----|---------
 [0xDE](http://11011110.livejournal.com/) |	
+[392C Geometric Group Theory](https://392c.wordpress.com/) | Henry Wilton (course blog)
 [A Mind for Madness](https://hilbertthm90.wordpress.com/) | Matt Ward
 [Alex Sisto](https://alexsisto.wordpress.com/) | Alessandro Sisto
 [Annoying Precision](https://qchu.wordpress.com/) | Qiaochu Yuan
@@ -26,7 +27,6 @@ Blog | Author/s
 [floerhomology](https://floerhomology.wordpress.com/) | Michael Hutchings
 [Frank Morgan's Blog](http://sites.williams.edu/Morgan/) | Frank Morgan
 [Godel's Lost Letter and P=NP](https://rjlipton.wordpress.com/) | Dick Lipton, Ken Regan
-[392C Geometric Group Theory](https://392c.wordpress.com/) | Henry Wilton (course blog)
 [Geometry and the Imagination](https://lamington.wordpress.com/) | Danny Calegari
 [God Plays Dice - old](http://godplaysdice.blogspot.ca/) | Michael Lugo
 [God Plays Dice - new](http://gottwurfelt.com/)	| Michael Lugo
