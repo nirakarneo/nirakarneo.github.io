@@ -12,6 +12,7 @@ Blog | Author/s
 [Annoying Precision](https://qchu.wordpress.com/) | Qiaochu Yuan
 [Area 777](https://conan777.wordpress.com/) | Conan Wu
 [Ars Mathematica](http://www.arsmathematica.net/) | Walt, Robbie
+[Blogarithm](https://philtynan.wordpress.com/) | 
 [Blogderbeweise](https://blogderbeweise.wordpress.com/)	| Pierre-Yves Bienvenu
 [Bubbles Bad; Ripples Good](https://williewong.wordpress.com/) | Willie Wai-Yeung Wong
 [Cedric Villani's Blog](http://cedricvillani.org/) | Cedric Villani
