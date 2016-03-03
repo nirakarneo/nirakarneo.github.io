@@ -54,6 +54,7 @@ Blog | Author/s
 [Mixed Math - new](http://davidlowryduda.com/) | David Lowry-Duda
 [Mixed Math - old](https://mixedmath.wordpress.com/) | David Lowry-Duda
 [Motivic Stuff](https://homotopical.wordpress.com/) | Andreas Holmstrom
+[Nathaniel Johnston's Blog](http://www.njohnston.ca/) | Nathaniel Johnston
 [Noncommutative Analysis](https://noncommutativeanalysis.wordpress.com/) | Orr Shalit
 [Noncommutative Geometry Blog](http://noncommutativegeometry.blogspot.ca/) | Alain Connes, etc.
 [Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/) | Peter Woit
