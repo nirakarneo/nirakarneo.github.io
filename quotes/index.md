@@ -11,3 +11,5 @@ title: Quotes
 > I was lucky enough to attend a few lectures of S. S. Chern just before he retired from Berkeley in which he said that the cotangent bundle (differential forms) is the feminine side of analysis on manifolds, and the tangent bundle (vector fields) is the masculine side. From this perspective, Hamiltonian mechanics is the feminine side of classical physics, [and] its masculine side is Lagrangian mechanics. [*Richard Montgomery*, [source](http://people.ucsc.edu/~rmont/papers/Symm_in_Mech_Review.PDF)]
 
 > ego cogito, ergo sum [*René Descartes*, [wiki](https://en.wikipedia.org/wiki/Cogito_ergo_sum#Principles_of_Philosophy)]
+
+> Suppose we loosely define a religion as any discipline whose foundations rest on an element of faith, irrespective of any element of reason which may be present. Quantum mechanics for example would be a religion under this definition. But mathematics would hold the unique position of being the only branch of theology possessing a rigorous demonstration of the fact that it should be so classified. [*F. De Sua* cited in H. Eves's *Mathematical Circles*]
