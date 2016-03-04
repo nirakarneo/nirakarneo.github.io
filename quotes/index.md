@@ -12,4 +12,4 @@ title: Quotes
 
 > ego cogito, ergo sum [*René Descartes*, [wiki](https://en.wikipedia.org/wiki/Cogito_ergo_sum#Principles_of_Philosophy)]
 
-> Suppose we loosely define a religion as any discipline whose foundations rest on an element of faith, irrespective of any element of reason which may be present. Quantum mechanics for example would be a religion under this definition. But mathematics would hold the unique position of being the only branch of theology possessing a rigorous demonstration of the fact that it should be so classified. [*F. De Sua* cited in H. Eves's *Mathematical Circles*]
+> Suppose we loosely define a religion as any discipline whose foundations rest on an element of faith, irrespective of any element of reason which may be present. Quantum mechanics for example would be a religion under this definition. But mathematics would hold the unique position of being the only branch of theology possessing a rigorous demonstration of the fact that it should be so classified. [*F. De Sua*, cited in H. Eves's *Mathematical Circles*]
