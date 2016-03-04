@@ -44,7 +44,7 @@ Blog | Author/s
 [Lemma Meringue](https://lemmameringue.wordpress.com/) | Thomas Bloom
 [Lewko's blog](https://lewko.wordpress.com/) | Mark Lewko
 [Libres pensées d'un mathématicien ordinaire](http://djalil.chafai.net/blog/) |	Djalil Chafai
-[Low Dimensional Topology](https://ldtopology.wordpress.com/) |	Ryan Budney, Nathan Dunfield, Jesse Johnson, Daniel Moskovich and Henry Wilton
+[Low Dimensional Topology](https://ldtopology.wordpress.com/) |	Group Blog
 [mathbabe](http://mathbabe.org/) | Cathy O’Neil
 [Mathematical general relativity, compressible fluids, and more](https://philippelefloch.org/) | Philippe LeFloch
 [Mathematical Musings](https://matthewkahle.wordpress.com/) | Matthew Kahle
