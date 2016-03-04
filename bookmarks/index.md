@@ -82,6 +82,7 @@ Blog | Author/s
 [The Accidental Mathematician](https://ilaba.wordpress.com/) | Izabella Laba
 [the capacity to be alone](https://etreseul.wordpress.com/) | Group Blog
 [The Everything Seminar](https://cornellmath.wordpress.com/) | Group Blog
+[The excluded middle](http://amakelov.github.io/) | Aleksandar Makelov
 [The Geomblog](http://blog.geomblog.org/) | Suresh Venkatasubramanian 
 [The n-Category Café](https://golem.ph.utexas.edu/category/) | Group Blog
 [The Polymath Blog](http://polymathprojects.org/) | Polymath
