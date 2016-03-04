@@ -85,6 +85,7 @@ Blog | Author/s
 [The Everything Seminar](https://cornellmath.wordpress.com/) | Group Blog
 [The excluded middle](http://amakelov.github.io/) | Aleksandar Makelov
 [The Geomblog](http://blog.geomblog.org/) | Suresh Venkatasubramanian 
+[The Math Less Traveled](http://mathlesstraveled.com/) | Brent Yorgey
 [The n-Category Café](https://golem.ph.utexas.edu/category/) | Group Blog
 [The Polymath Blog](http://polymathprojects.org/) | Polymath
 [The Rising Sea](http://therisingsea.org/) | Daniel Murfet
