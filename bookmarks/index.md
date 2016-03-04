@@ -11,7 +11,7 @@ Blog | Author/s
 [A Mind for Madness](https://hilbertthm90.wordpress.com/) | Matt Ward
 [Alex Sisto](https://alexsisto.wordpress.com/) | Alessandro Sisto
 [Annoying Precision](https://qchu.wordpress.com/) | Qiaochu Yuan
-[Anurag's Blog](https://anuragbishnoi.wordpress.com/) | Anurag Bishnoi
+[Anurag's Math Blog](https://anuragbishnoi.wordpress.com/) | Anurag Bishnoi
 [Area 777](https://conan777.wordpress.com/) | Conan Wu
 [Azimuth](https://johncarlosbaez.wordpress.com/) | John Carlos Baez
 [Ars Mathematica](http://www.arsmathematica.net/) | Walt, Robbie
