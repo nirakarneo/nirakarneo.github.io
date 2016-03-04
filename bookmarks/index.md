@@ -7,10 +7,12 @@ Blog | Author/s
 [0xDE](http://11011110.livejournal.com/) |	
 [392C Geometric Group Theory](https://392c.wordpress.com/) | Henry Wilton (course blog)
 [A Dialogue on Infinity](https://dialinf.wordpress.com/) | Alexandre Borovik, David Corfield
+[A Kind of Library](https://andrescaicedo.wordpress.com/) | Andrés E. Caicedo
 [A Mind for Madness](https://hilbertthm90.wordpress.com/) | Matt Ward
 [Alex Sisto](https://alexsisto.wordpress.com/) | Alessandro Sisto
 [Annoying Precision](https://qchu.wordpress.com/) | Qiaochu Yuan
 [Area 777](https://conan777.wordpress.com/) | Conan Wu
+[Azimuth](https://johncarlosbaez.wordpress.com/) | John Carlos Baez
 [Ars Mathematica](http://www.arsmathematica.net/) | Walt, Robbie
 [Blogarithm](https://philtynan.wordpress.com/) | 
 [Blogderbeweise](https://blogderbeweise.wordpress.com/)	| Pierre-Yves Bienvenu
@@ -44,7 +46,9 @@ Blog | Author/s
 [Lemma Meringue](https://lemmameringue.wordpress.com/) | Thomas Bloom
 [Lewko's blog](https://lewko.wordpress.com/) | Mark Lewko
 [Libres pensées d'un mathématicien ordinaire](http://djalil.chafai.net/blog/) |	Djalil Chafai
+[Life Through a Mathematician's Eyes](http://lthmath.tumblr.com/) | 
 [Low Dimensional Topology](https://ldtopology.wordpress.com/) |	Group Blog
+[Math with Bad Drawings](http://mathwithbaddrawings.com/) | Ben Orlin
 [mathbabe](http://mathbabe.org/) | Cathy O’Neil
 [Mathematical general relativity, compressible fluids, and more](https://philippelefloch.org/) | Philippe LeFloch
 [Mathematical Musings](https://matthewkahle.wordpress.com/) | Matthew Kahle
@@ -59,9 +63,11 @@ Blog | Author/s
 [Noncommutative Analysis](https://noncommutativeanalysis.wordpress.com/) | Orr Shalit
 [Noncommutative Geometry Blog](http://noncommutativegeometry.blogspot.ca/) | Alain Connes, etc.
 [Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/) | Peter Woit
+[Persiflage](https://galoisrepresentations.wordpress.com/) | Frank Calegari
 [Peter Cameron's Blog](https://cameroncounts.wordpress.com/) | Peter Cameron
 [Quomodocumque](https://quomodocumque.wordpress.com/) | Jordan Ellenberg
-[regularize](https://regularize.wordpress.com/) | Dirk Lorenz.
+[regularize](https://regularize.wordpress.com/) | Dirk Lorenz
+[Residue Theorem and Friends](http://residuetheorem.com) | Ron Gordon
 [Rigorous Trivialities](https://rigtriv.wordpress.com/) | Charles Siegel, Jim Stankewicz
 [Roots of Unity](http://blogs.scientificamerican.com/roots-of-unity/) | Evelyn Lamb
 [Secret Blogging Seminar](https://sbseminar.wordpress.com/) | Group Blog
@@ -71,6 +77,7 @@ Blog | Author/s
 [Since it is not …](https://ifwisdomwereteachable.wordpress.com/) | Yemon Choi
 [Stacks Project Blog](http://math.columbia.edu/~dejong/wordpress/) | Aise Johan de Jong
 [SymOmega](https://symomega.wordpress.com/) | Michael Giudici, John Bamberg and Gordon Royle
+[Tanya Khovanova's Blog](http://blog.tanyakhovanova.com/) | Tanya Khovanova
 [tcs math](http://tcsmath.org/) | James R. Lee
 [The Accidental Mathematician](https://ilaba.wordpress.com/) | Izabella Laba
 [the capacity to be alone](https://etreseul.wordpress.com/) | Group Blog
@@ -78,9 +85,11 @@ Blog | Author/s
 [The Geomblog](http://blog.geomblog.org/) | Suresh Venkatasubramanian 
 [The n-Category Café](https://golem.ph.utexas.edu/category/) | Group Blog
 [The Polymath Blog](http://polymathprojects.org/) | Polymath
+[The Rising Sea](http://therisingsea.org/) | Daniel Murfet
 [The Unapologetic Mathematician](https://unapologetic.wordpress.com/) | John Armstrong
 [Vaughn Climenhaga's Math Blog](https://vaughnclimenhaga.wordpress.com/) | Vaughn Climenhaga
 [Vieux Girondin's Blog](https://vieuxgirondin.wordpress.com/) | Vieux Girondin
+[viXra log](http://blog.vixra.org/) | Philip Gibbs
 [Weblog](https://pfzhang.wordpress.com/) | Pengfei Zhang
 [What's New](https://terrytao.wordpress.com/) | Terence Tao
 [Windows on Theory](http://windowsontheory.org/) | Group Blog
