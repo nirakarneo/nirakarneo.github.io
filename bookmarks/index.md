@@ -78,6 +78,7 @@ Blog | Author/s
 [Short, Fat Matrices](https://dustingmixon.wordpress.com/) | Dustin G. Mixon
 [Since it is not …](https://ifwisdomwereteachable.wordpress.com/) | Yemon Choi
 [Stacks Project Blog](http://math.columbia.edu/~dejong/wordpress/) | Aise Johan de Jong
+[stacky wiki](http://stacky.net/wiki/index.php?title=Main_Page) | Anton Geraschenko
 [SymOmega](https://symomega.wordpress.com/) | Michael Giudici, John Bamberg and Gordon Royle
 [Tanya Khovanova's Blog](http://blog.tanyakhovanova.com/) | Tanya Khovanova
 [tcs math](http://tcsmath.org/) | James R. Lee
