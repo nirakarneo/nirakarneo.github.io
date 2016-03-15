@@ -37,6 +37,7 @@ Blog | Author/s
 [God Plays Dice - old](http://godplaysdice.blogspot.ca/) | Michael Lugo
 [Godel's Lost Letter and P=NP](https://rjlipton.wordpress.com/) | Dick Lipton, Ken Regan
 [Gowers's Weblog](https://gowers.wordpress.com/) | Timothy Gowers
+[Homotopy Type Theory Blog](http://homotopytypetheory.org/blog/) | General
 [Hydrobates](https://alanrendall.wordpress.com/) | Alan Rendall
 [I Woke Up In A Strange Place](https://yannisparissis.wordpress.com/) | Ioannis Parissis
 [Igor Pak's Blog](https://igorpak.wordpress.com/) | Igor Pak
