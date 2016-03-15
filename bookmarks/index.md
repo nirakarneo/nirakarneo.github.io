@@ -53,6 +53,7 @@ Blog | Author/s
 [mathbabe](http://mathbabe.org/) | Cathy O’Neil
 [Mathematical general relativity, compressible fluids, and more](https://philippelefloch.org/) | Philippe LeFloch
 [Mathematical Musings](https://matthewkahle.wordpress.com/) | Matthew Kahle
+[Mathematics and Computation](http://math.andrej.com/) | Andrej Bauer
 [Mathematics Under the Microscope](https://micromath.wordpress.com) | Alexandre Borovik
 [Mathematics without Apologies](https://mathematicswithoutapologies.wordpress.com/) | Michael Harris
 [Matt Baker's Math Blog](https://mattbakerblog.wordpress.com/) | Matt Baker
