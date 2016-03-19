@@ -93,6 +93,7 @@ Blog | Author/s
 [The Polymath Blog](http://polymathprojects.org/) | Polymath
 [The Rising Sea](http://therisingsea.org/) | Daniel Murfet
 [The Unapologetic Mathematician](https://unapologetic.wordpress.com/) | John Armstrong
+[Todd and Vishal's Blog](https://topologicalmusings.wordpress.com/) | Todd and Vishal
 [Vaughn Climenhaga's Math Blog](https://vaughnclimenhaga.wordpress.com/) | Vaughn Climenhaga
 [Vieux Girondin's Blog](https://vieuxgirondin.wordpress.com/) | Vieux Girondin
 [viXra log](http://blog.vixra.org/) | Philip Gibbs
