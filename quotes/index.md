@@ -15,3 +15,5 @@ title: Quotes
 > Suppose we loosely define a religion as any discipline whose foundations rest on an element of faith, irrespective of any element of reason which may be present. Quantum mechanics for example would be a religion under this definition. But mathematics would hold the unique position of being the only branch of theology possessing a rigorous demonstration of the fact that it should be so classified. [*F. De Sua*, cited in H. Eves's *Mathematical Circles*]
 
 > I don't know what I may seem to the world, but as to myself, I seem to have been only like a boy playing on the sea-shore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me. [*Sir Isaac Newton*, *Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton* (1855) by Sir David Brewster (Volume II. Ch. 27) ]
+
+> The only hope of a pure mathematician is to die before their work is applied. [[Source](https://www.quora.com/Is-all-mathematics-applied-mathematics-eventually/answer/Caleb-Vatral)]
