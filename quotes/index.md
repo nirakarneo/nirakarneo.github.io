@@ -19,6 +19,6 @@ title: Quotes
 > The only hope of a pure mathematician is to die before their work is applied. [[Source](https://www.quora.com/Is-all-mathematics-applied-mathematics-eventually/answer/Caleb-Vatral)]
 
 > I can illustrate the ... approach with the ... image of a nut to be opened. The first analogy that came to my mind is of immersing the nut in some softening liquid, and why not simply water? From time to time you rub so the liquid penetrates better, and otherwise
-you let time pass. The shell becomes more flexible through weeks and months — when the time is ripe, hand pressure is enough, the shell opens like a perfectly ripened avocado!
+you let time pass. The shell becomes more flexible through weeks and months — when the time is ripe, hand pressure is enough, the shell opens like a perfectly ripened avocado!  
 > A different image came to me a few weeks ago. The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration ... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so
 far off you hardly hear it ... yet finally it surrounds the resistant substance. [*A. Grothendieck* in *R´ecoltes et Semailles*; translated by *C. McLarty* in *The Rising Sea: Grothendieck on simplicity and generality*, [Source](http://www.landsburg.com/grothendieck/mclarty1.pdf)]
